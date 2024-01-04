@@ -1,4 +1,4 @@
-# Java Swing To-Do-List
+# To-Do-List
 
 ## A straightfoward to-do list written in Java Swing intended for quick and easy task management
 
