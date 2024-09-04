@@ -2,4 +2,4 @@
 
 ## A straightforward to-do list written in Java Swing intended for quick and easy task management
 
-This project was built to enhance my coding skills and showcase my ability to create an application I envision. The GUI was build with simplicity, yet detailed functionality, which includes the ability to add or delete tasks and mark them as complete.
+A simple and intuitive to-do list application built with Java Swing. This desktop app allows users to create, edit, and manage daily tasks efficiently. Users can enter new tasks, mark them as completed, and delete items as needed, all within a clean and user-friendly interface.
